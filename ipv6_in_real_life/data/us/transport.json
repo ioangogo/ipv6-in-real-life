@@ -1,0 +1,8 @@
+[
+    {
+        "main_host": "www.amtrak.com",
+        "additional_hosts": [
+            "login.amtrak.com"
+        ]
+    },
+]
